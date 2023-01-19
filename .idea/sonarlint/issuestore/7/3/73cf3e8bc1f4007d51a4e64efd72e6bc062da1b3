@@ -1,0 +1,18 @@
+
+k
+java:S36554"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Óû•åûÿÿÿÿ
+k
+java:S3655W"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Óû•åûÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(ÿ€ú“ÿÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(Ñ¢¬¹üÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(±°…îÿÿÿÿÿ
+F
+java:S1172S"0Remove this unused method parameter "exception".(ýá§È
+r
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ
+_
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ
+c
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Þûÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ
